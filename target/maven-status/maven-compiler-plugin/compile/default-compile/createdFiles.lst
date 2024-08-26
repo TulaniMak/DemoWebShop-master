@@ -1,0 +1,5 @@
+com\qa\pages\WebShopLogin.class
+com\qa\pages\WebShopRegister.class
+com\qa\pages\WebShopDesktops.class
+com\qa\pages\WebShopHome.class
+com\qa\base\TestBase.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.test.WebShopHomeTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 83.56 s -- in com.qa.test.WebShopHomeTest
